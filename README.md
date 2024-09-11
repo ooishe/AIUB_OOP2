@@ -24,6 +24,20 @@ Desktop CRUD App Written In C#(.NET Framework)
 
 
  ## How to Run
+1. Right click on the server and the on properties
+   
+![Screenshot 2024-09-11 221727](https://github.com/user-attachments/assets/7200dba8-6a62-4683-b980-6c3c7e517f42)
+
+2. Double click to select and copy the Connection String
+
+![Screenshot 2024-09-11 221752](https://github.com/user-attachments/assets/696719a2-262b-41bd-a932-e5408b8d42e8)
+
+4. Paste it in the double qoutation. 
+ ![image](https://github.com/user-attachments/assets/5b972da2-e4ae-4c05-a690-1b68f9cd5088)
+
+5. Finally run the code
+
+   ![Screenshot 2024-09-11 221851](https://github.com/user-attachments/assets/08d6da72-8f79-49d0-908b-14ee606f7f09)
 
  
  
