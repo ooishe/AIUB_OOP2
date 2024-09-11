@@ -1,0 +1,10 @@
+E:\6. Summer 23-24\C#\assignment\Tester01\Tester01\bin\Debug\Tester01.exe.config
+E:\6. Summer 23-24\C#\assignment\Tester01\Tester01\bin\Debug\Tester01.exe
+E:\6. Summer 23-24\C#\assignment\Tester01\Tester01\bin\Debug\Tester01.pdb
+E:\6. Summer 23-24\C#\assignment\Tester01\Tester01\obj\Debug\Tester01.csproj.AssemblyReference.cache
+E:\6. Summer 23-24\C#\assignment\Tester01\Tester01\obj\Debug\Tester01.Form1.resources
+E:\6. Summer 23-24\C#\assignment\Tester01\Tester01\obj\Debug\Tester01.Properties.Resources.resources
+E:\6. Summer 23-24\C#\assignment\Tester01\Tester01\obj\Debug\Tester01.csproj.GenerateResource.cache
+E:\6. Summer 23-24\C#\assignment\Tester01\Tester01\obj\Debug\Tester01.csproj.CoreCompileInputs.cache
+E:\6. Summer 23-24\C#\assignment\Tester01\Tester01\obj\Debug\Tester01.exe
+E:\6. Summer 23-24\C#\assignment\Tester01\Tester01\obj\Debug\Tester01.pdb
